@@ -1,0 +1,12 @@
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\bin\Debug\netcoreapp2.0\CatchTheDeceiver.deps.json
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\bin\Debug\netcoreapp2.0\CatchTheDeceiver.runtimeconfig.json
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\bin\Debug\netcoreapp2.0\CatchTheDeceiver.runtimeconfig.dev.json
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\bin\Debug\netcoreapp2.0\CatchTheDeceiver.dll
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\bin\Debug\netcoreapp2.0\CatchTheDeceiver.pdb
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\obj\Debug\netcoreapp2.0\CatchTheDeceiver.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\obj\Debug\netcoreapp2.0\CatchTheDeceiver.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\obj\Debug\netcoreapp2.0\CatchTheDeceiver.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\obj\Debug\netcoreapp2.0\CatchTheDeceiver.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\obj\Debug\netcoreapp2.0\CatchTheDeceiver.dll
+C:\Users\Андрей\source\repos\CatchTheDeceiver\CatchTheDeceiver\obj\Debug\netcoreapp2.0\CatchTheDeceiver.pdb
